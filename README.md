@@ -3,16 +3,16 @@ README.md
 # Website Title: Love Maths
 
 ## Version Details
-README Version: 0001;  
-HTML Version: 0001;  
-CSS Version: 0001;  
-JavaScript Version: 0001;
+README Version: 0002;  
+HTML Version: 0008;  
+CSS Version: 0002;  
+JavaScript Version: 0002;
 
 # 1 Strategy
 
 ## 1.1 Concept
 
-Create a site that ..
+Create a site that provides an interactive experience working with arithmetic functions.
 
 ## 1.2 External User Goals
 

@@ -4,5 +4,11 @@
 /* Variable */
 :root{
 --menubuttonwidth: %;
---cssfileversion: "0001";
+--cssfileversion: "0002";
+}
+body{
+background-color: white;
+    font-family: "Raleway", sans-serif;
+    color: #445361;
+    text-align: center;
 }
