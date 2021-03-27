@@ -3,11 +3,29 @@ README.md
 # Website Title: Love Maths
 
 ## Version Details
-README Version: 0002;  
-HTML Version: 0008;  
-CSS Version: 0029;  
-JavaScript Version: 0002;
+README Version: 0003;  
+HTML Version: 0009;  
+CSS Version: 0034;  
+JavaScript Version: 0120;
 
+runGame()
+
+checkAnswer()
+
+calculateCorrectAnswer()
+
+incrementScore()
+
+incrementWrongAnswer()
+
+displayAdditionQuestion()
+
+displaySubtractQuestion()
+
+displayMultiplyQuestion()
+
+displayDivisionQuestion()
+
 # 1 Strategy
 
 ## 1.1 Concept
